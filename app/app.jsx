@@ -9,6 +9,6 @@ $(document).foundation()
 require('style!css!sass!applicationStyles')
 
 ReactDOM.render(
-  <h1>Hello World Mohca Test Boilerplate</h1>,
+  <h1>React with Mohca Test Boilerplate</h1>,
   document.getElementById('app')
 )
